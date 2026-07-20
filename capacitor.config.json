@@ -1,5 +1,12 @@
 {
-  "appId": "com.mridul.myapp",
-  "appName": "My HTML App",
-  "webDir": "www"
+  "appId": "com.madhubansevokdas.journeytomayapur",
+  "appName": "The Journey — Milwaukee to Mayapur",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_icon",
+      "iconColor": "#D4A857"
+    }
+  }
 }
